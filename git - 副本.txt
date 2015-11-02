@@ -1,0 +1,3 @@
+git diff  是比较当前工作区的内容和暂存区的内容  比较
+git diff HEAD 是比较当前工作区的内容和版本库的内容比较
+git diff --cached 比较暂存区和HEAD的比较
